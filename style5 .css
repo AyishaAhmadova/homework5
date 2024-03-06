@@ -1,0 +1,76 @@
+*text
+body {
+    background-color: antiquewhite;
+        
+
+
+}
+.box{background-position: center;
+    background-color: antiquewhite;
+    background-image: url("arxa\ fon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h2{color: rgb(215, 217, 225);
+    text-shadow: 0 0 5px rgb(0, 30, 255);
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+.m2{color: rgb(115, 160, 176);
+    text-shadow: 0 0 5px rgb(236, 230, 230);
+    text-align: center;
+    padding-top: 90px;
+
+}
+.box p {color: rgb(243, 241, 241);
+    text-align: center;
+
+}
+ .botton { 
+    
+    border-radius: 10px;
+    color: rgb(34, 30, 30);
+    padding: 50px 70px;
+    text-align: center;
+    text-decoration:none ;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding-left: 680px;
+}
+.box span {
+    font-family: "Josefin Sans", sans-serif;
+    font-family: "Exo 2", sans-serif;
+}
+img {
+    display: block;
+    margin: 0 auto;
+   width: 400px;
+   height: 400px;
+
+}
+h4 {
+    color:rgb(16, 16, 16);
+    text-shadow: 0 0 5px red;
+    text-align: center;
+}
+p{ color: rgb(13, 13, 14);
+    text-align: center;
+
+}
+h5{color: whitesmoke;
+    text-shadow: 0 0 5px red;
+    text-align: center
+
+}
+.zeher{color: rgb(124, 59, 59);
+    text-shadow: 0 0 5px rgb(236, 230, 230);
+    text-align: center;
+    padding-top: 90px;
+
+}
